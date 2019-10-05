@@ -1,0 +1,7 @@
+artifact_path: test_model_dbr60
+flavors:
+  mleap:
+    mleap_version: 0.8.1
+    model_data: mleap/model
+run_id: 663f18e2a6c74cc0a8447fc0ad6ce8a6
+utc_time_created: '2019-10-05 01:50:24.604827'

@@ -1,0 +1,13 @@
+{
+  "name": "HashingTF_14f1f895c4a3",
+  "shape": {
+    "inputs": [{
+      "port": "input",
+      "name": "words"
+    }],
+    "outputs": [{
+      "port": "output",
+      "name": "features"
+    }]
+  }
+}
