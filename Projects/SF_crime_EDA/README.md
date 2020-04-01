@@ -17,7 +17,7 @@ The SFPD provides public access to its well-maintained [crime incidents reports]
   - Spark APIS (both RDD based API and datafram based API) 
   - Python
   - PySpark, pandas, matplotlib, geopandas, shapely, folium, statsmodels, pmdarima
-  - Basic Linux knowledge and CLI commands
+  - Basic Linux knowledge and shell scripts
 
 #### PS: all codes tested on runtime version: 5.5 LTS (includes Apache Spark 2.4.3, Scala 2.11) and 6.4ML (includes Apache Spark 2.4.5, Scala 2.11)
 
