@@ -21,7 +21,7 @@ All the analyses and modelings in this notebook are based on the [MovieLens data
   - Spark APIS (both RDD based API and datafram based API) 
   - Python
   - PySpark, pandas, matplotlib
-  - Basic Linux knowledge and CLI commands
+  - Basic Linux knowledge and shell scripts
   
 #### PS: all codes tested on runtime version: 5.4 ML (includes Apache Spark 2.4.3, Scala 2.11) and 6.4 (Spark 2.4.5 Scala 2.11)
 
