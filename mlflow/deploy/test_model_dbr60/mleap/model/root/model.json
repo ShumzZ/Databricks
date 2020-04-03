@@ -1,9 +1,0 @@
-{
-  "op": "pipeline",
-  "attributes": {
-    "nodes": {
-      "string": ["StringIndexer_c56a98dfa5f9", "Tokenizer_8307057f4f08", "HashingTF_14f1f895c4a3", "DecisionTreeClassifier_2a464c0feb5e"],
-      "type": "list"
-    }
-  }
-}
